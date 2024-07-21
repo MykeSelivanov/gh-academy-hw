@@ -9,7 +9,7 @@ Status colors list:
 ## Minimal Homework
 
 - 🟢 [LC 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](LinkedListCycle.java)
-- 🟡 [LC 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution]()
+- 🟡 [LC 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](LinkedListCycleII.java)
 - 🟡 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - [Solution]()
 - 🟡 [370. Range Addition](https://leetcode.com/problems/range-addition/) - [Solution]()
 
