@@ -15,4 +15,4 @@ Status colors list:
 
 ## Recommended Homework
 
-- 🟡:green_circle: [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) - [Solution]()
+- 🟡 :green_circle: :green_circle: [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) - [Solution]()
