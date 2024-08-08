@@ -10,9 +10,9 @@ Status colors list:
 
 - 🟢[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - [Solution](TwoSumII-InputArrayIsSorted.java)
 - 🟢[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](LinkedListCycle.java)
-- 🟢[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](LinkedListCycle.java)
-- 🟢[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](LinkedListCycle.java)
+- 🟢[443. String Compression](https://leetcode.com/problems/string-compression/description/) - [Solution]()
+- 🟢[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) - [Solution]()
 
 ## Recommended Homework
 
-- 🟡 :green_circle: :green_circle: [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) - [Solution]()
+- :red_circle: [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) - [Solution]()
