@@ -9,7 +9,7 @@ Status colors list:
 ## Minimal Homework
 
 - 🟢[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - [Solution](TwoSumII-InputArrayIsSorted.java)
-- 🟢[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](LinkedListCycle.java)
+- 🟢[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](MoveZeroes.java)
 - 🟢[443. String Compression](https://leetcode.com/problems/string-compression/description/) - [Solution]()
 - 🟢[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) - [Solution]()
 
