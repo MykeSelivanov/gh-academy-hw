@@ -8,9 +8,9 @@ Status colors list:
 
 ## Minimal Homework
 
-- 🟢 [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Solution]()
-- 🟢 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [Solution]()
-
+- 🟢 [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Solution](RotateArray.java)
+- 🟢 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [Solution](SortColors.java)
+- 🟢 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) - [Solution]()
 
 ## Recommended Homework
 
