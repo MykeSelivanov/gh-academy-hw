@@ -12,7 +12,7 @@ Status colors list:
 - 🟢 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [Solution](SortColors.java)
 - 🟢 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) - [Solution](MergeSortedArray.java)
 - 🟢 [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) - [Solution](SortArrayByParityII.java)
-- 🟢 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) - [Solution]()
+- 🟢 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) - [Solution](RangeSumQueryImmutable.java)
 
 ## Recommended Homework
 
